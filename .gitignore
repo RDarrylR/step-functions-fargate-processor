@@ -1,0 +1,12 @@
+tfplan
+*.tfbackup
+.terraform/
+*.tfstate
+.terraform.tfstate*
+terraform.tfstate.backup
+.terraform.lock.hcl
+**/.vscode/*
+**/target/*
+**/build/*
+Cargo.lock
+**/terraform.tfstate*
