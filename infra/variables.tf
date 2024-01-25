@@ -28,9 +28,9 @@ variable "fargate_memory" {
 }
 
 variable "slack_webhook" {
-  default = "https://hooks.slack.com/triggers/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"
+  default = "https://hooks.slack.com/triggers/AAAAAAA/BAHDDHKDJHDKJHDKHDKDHKDHD
 }
 
 variable "aws_profile" {
-  default = "darryl-leg"
+  default = "personal"
 }
