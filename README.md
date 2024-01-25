@@ -47,9 +47,11 @@ Once the terraform is applied it will output the newly created S3 bucket name to
 
 It will look like this:
 
+```
 Outputs:
 
 bucket_to_upload_sales_zip_to = "stepfunctions-fargate-processor-fdsfdfdsffd"  (NOTE - this is not an actual bucket name - yours will be different)
+```
 
 To start the processing you need to upload one of the zip files of data from the sample_data directory to the uploads/ path in the S3 bucket
 ```bash
