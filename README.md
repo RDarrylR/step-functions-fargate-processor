@@ -74,4 +74,4 @@ terraform destroy (from the infra directory)
 
 ### Read More
 
-This repository is associated with the following blog [posted here](https://darryl-ruggles.cloud/step-functions-fargate-processor)
+This repository is associated with the following blog [posted here](https://darryl-ruggles.cloud/serverless-data-processor-using-aws-lambda-step-functions-and-fargate-on-ecs-with-rust)
